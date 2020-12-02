@@ -24,7 +24,7 @@ I think my logical thinking and problem-solving skills are greatly valuable to t
 
 
 ### Projects 
-<img align="right" src="https://github.com/ManishShah120/ManishShah120/blob/master/coding-freak.gif" width="32%"/>
+<img align="right" src="https://github.com/mbharti321/mbharti321/blob/main/coding-freak.gif" width="32%"/>
 
 - [Jobbster](https://github.com/mbharti321/Jobbster)
     [PHP, python, html, css, js, bootstrap]
