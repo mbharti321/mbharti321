@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hola World! <br>I'm <a href = "https://www.google.com/search?q=MBharti321" target="_blank">Manish Bharti</a>👋 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manish-bharti/">Linkden</a>
-</p>
+
 
 ## Me 👨‍💻 
 Being an all-time learner and blockchain enthusiast, I believe in smart work.
@@ -28,12 +26,16 @@ I think my logical thinking and problem-solving skills are greatly valuable to t
 ### Projects 
 <img align="right" src="https://github.com/ManishShah120/ManishShah120/blob/master/coding-freak.gif" width="32%"/>
 
-- [Jobbster](https://github.com/mbharti321/Jobbster)[PHP, python, html, css, js, bootstrap]
-- [Cafeteria-Odering-System](https://github.com/mbharti321/Cafeteria-Odering-System)[Python, Django,html,css,bootstrap,javascript]
-- [E-Voting System](https://github.com/mbharti321/EVoting-System)[Visual Basic 6.0, SQLServer]
-
-- [covidms](https://github.com/mbharti321/covidms) [Python,Django,html,css,bootstrap,javascript]
-- [tic-tac-toe](https://github.com/mbharti321/tic-tac-toe) [Python]
+- [Jobbster](https://github.com/mbharti321/Jobbster)
+    [PHP, python, html, css, js, bootstrap]
+- [Cafeteria-Odering-System](https://github.com/mbharti321/Cafeteria-Odering-System)
+    [Python, Django,html,css,bootstrap,javascript]
+- [E-Voting System](https://github.com/mbharti321/EVoting-System)
+    [Visual Basic 6.0, SQLServer]
+- [covidms](https://github.com/mbharti321/covidms)   
+    [Python,Django,html,css,bootstrap,javascript]
+- [tic-tac-toe](https://github.com/mbharti321/tic-tac-toe) 
+    [Python]
 
 
 ### My Stats 📊
@@ -41,6 +43,14 @@ I think my logical thinking and problem-solving skills are greatly valuable to t
 <!-- ![](https://komarev.com/ghpvc/?username=mbharti321&color=green) --!>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mbharti321&&show_icons=true&title_color=26FF00&icon_color=2551E6&text_color=ffffff&bg_color=000000" width="100%"/><br>
+
+### 📫 How to reach me: 
+Linkedin: <a href="https://www.linkedin.com/in/manish-bharti/">Manish Bharti</a>
+
+
+## Profile Reference
+- [Manish Kumar Shah](https://github.com/ManishShah120)
+
 
 <!--
 <details>
@@ -63,6 +73,3 @@ I think my logical thinking and problem-solving skills are greatly valuable to t
 | 13. | [Basics of sk-Learn](https://github.com/ManishShah120/sk-learn-Basics) |
 </details>
 -->
-
-## Profile Reference
-- [Manish Kumar Shah](https://github.com/ManishShah120)
