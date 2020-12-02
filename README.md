@@ -37,8 +37,9 @@ I think my logical thinking and problem-solving skills are greatly valuable to t
 - [Smart Waste Management System(Website)](https://github.com/ManishShah120/Smart-Waste-Management-System)[Html, Css, Js, Google Map API]
 - [Early Flood Prediction System](https://github.com/ManishShah120/Early-Flood-Prediction-System/)[Html, Css, Js]
 
-### My Stats 📊 <img src="https://komarev.com/ghpvc/?username=mbharti321" alt="mbharti321" />
-![](https://komarev.com/ghpvc/?username=your-github-mbharti321&color=green)
+### My Stats 📊
+<img src="https://komarev.com/ghpvc/?username=mbharti321" alt="mbharti321" />
+![](https://komarev.com/ghpvc/?username=mbharti321&color=green)
 
 <img src="https://github-readme-stats.vercel.app/api?username=mbharti321&&show_icons=true&title_color=26FF00&icon_color=2551E6&text_color=ffffff&bg_color=000000" width="100%"/><br>
 <details>
