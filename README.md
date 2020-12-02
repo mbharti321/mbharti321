@@ -25,7 +25,7 @@ I am a good team player, which helps me work on challenging problems and build p
 I think my logical thinking and problem-solving skills are greatly valuable to the team. 
 
 ### Projects 🖤
-<img align="right" src="https://github.com/ManishShah120/ManishShah120/blob/master/coding-freak.gif" width="32%"/>
+<!-- <img align="right" src="https://github.com/ManishShah120/ManishShah120/blob/master/coding-freak.gif" width="32%"/>
 
 - [News-Scrap](https://github.com/ManishShah120/news-scrap)❤️
 - [Bloger(An open source project)](https://github.com/harsh-9in/Blogger)[django, python, html, css, js]
@@ -39,7 +39,7 @@ I think my logical thinking and problem-solving skills are greatly valuable to t
 
 ### My Stats 📊
 <img src="https://komarev.com/ghpvc/?username=mbharti321" alt="mbharti321" />
-![](https://komarev.com/ghpvc/?username=mbharti321&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=mbharti321&color=green) --!>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mbharti321&&show_icons=true&title_color=26FF00&icon_color=2551E6&text_color=ffffff&bg_color=000000" width="100%"/><br>
 <details>
