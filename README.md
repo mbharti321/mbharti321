@@ -26,7 +26,7 @@ I think my logical thinking and problem-solving skills are greatly valuable to t
 
 ### Projects 🖤
 <img align="right" src="https://github.com/ManishShah120/ManishShah120/blob/master/coding-freak.gif" width="32%"/>
-
+<!--
 - [News-Scrap](https://github.com/ManishShah120/news-scrap)❤️
 - [Bloger(An open source project)](https://github.com/harsh-9in/Blogger)[django, python, html, css, js]
 - [Google Playstore Analysis](https://github.com/ManishShah120/GooglePlayStoreAnalysis/blob/main/GooglePlayStoreAnalysis.ipynb)[Pandas, Numpy, Matplotlib, Seaborn, jovian]
@@ -36,12 +36,14 @@ I think my logical thinking and problem-solving skills are greatly valuable to t
 - [Personal Blogging Site](https://github.com/ManishShah120/SETYO_BloggingSite)[Docker, php, wordpress, yaml]
 - [Smart Waste Management System(Website)](https://github.com/ManishShah120/Smart-Waste-Management-System)[Html, Css, Js, Google Map API]
 - [Early Flood Prediction System](https://github.com/ManishShah120/Early-Flood-Prediction-System/)[Html, Css, Js]
-
+-->
 ### My Stats 📊
 <img src="https://komarev.com/ghpvc/?username=mbharti321" alt="mbharti321" />
 <!-- ![](https://komarev.com/ghpvc/?username=mbharti321&color=green) --!>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mbharti321&&show_icons=true&title_color=26FF00&icon_color=2551E6&text_color=ffffff&bg_color=000000" width="100%"/><br>
+
+<!--
 <details>
 <summary><font size=5><b>Usefull Repo's 🗃</b></font></summary>
 
@@ -61,6 +63,7 @@ I think my logical thinking and problem-solving skills are greatly valuable to t
 | 12. | [Analysis of different Sorting Algorithms](https://github.com/ManishShah120/Analysis-of-Sorting-Algorithm) |
 | 13. | [Basics of sk-Learn](https://github.com/ManishShah120/sk-learn-Basics) |
 </details>
+-->
 
-## Reference
+## Profile Reference
 - [Manish Kumar Shah](https://github.com/ManishShah120)
