@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hola World! <br>I'm <a href = "https://www.google.com/search?q=MBharti321" target="_blank">Manish Bharti</a>👋 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manish-bharti/">
+  <a href="https://www.linkedin.com/in/manish-bharti/">Linkden</a>
 </p>
 
 ## Me 👨‍💻 
@@ -24,20 +24,17 @@ Being an all-time learner and blockchain enthusiast, I believe in smart work.
 I am a good team player, which helps me work on challenging problems and build positive relationships with teammates. Programming, web development, cycling are few interests of mine.
 I think my logical thinking and problem-solving skills are greatly valuable to the team. 
 
-<!--
-### Projects 🖤
+
+### Projects 
 <img align="right" src="https://github.com/ManishShah120/ManishShah120/blob/master/coding-freak.gif" width="32%"/>
 
-- [News-Scrap](https://github.com/ManishShah120/news-scrap)❤️
-- [Bloger(An open source project)](https://github.com/harsh-9in/Blogger)[django, python, html, css, js]
-- [Google Playstore Analysis](https://github.com/ManishShah120/GooglePlayStoreAnalysis/blob/main/GooglePlayStoreAnalysis.ipynb)[Pandas, Numpy, Matplotlib, Seaborn, jovian]
-- [Facial Expression Detection](https://github.com/ManishShah120/facial-expression-detector) [PyTorch, ResNet-9-18-34, Pandas, Numpy, Matplotlib]
-- [Weather Forecaster1.2](https://github.com/ManishShah120/Weather-Forecaster1.2)[Python, bs4, requests, Web Scraping]
-- [Developer Card](https://github.com/ManishShah120/Flutter_Dev-Card)[Android/iOS App, Flutter, Dart]
-- [Personal Blogging Site](https://github.com/ManishShah120/SETYO_BloggingSite)[Docker, php, wordpress, yaml]
-- [Smart Waste Management System(Website)](https://github.com/ManishShah120/Smart-Waste-Management-System)[Html, Css, Js, Google Map API]
-- [Early Flood Prediction System](https://github.com/ManishShah120/Early-Flood-Prediction-System/)[Html, Css, Js]
--->
+- [Jobbster](https://github.com/mbharti321/Jobbster)[PHP, python, html, css, js, bootstrap]
+- [Cafeteria-Odering-System](https://github.com/mbharti321/Cafeteria-Odering-System)[Python, Django,html,css,bootstrap,javascript]
+- [E-Voting System](https://github.com/mbharti321/EVoting-System)[Visual Basic 6.0, SQLServer]
+
+- [covidms](https://github.com/mbharti321/covidms) [Python,Django,html,css,bootstrap,javascript]
+- [tic-tac-toe](https://github.com/mbharti321/tic-tac-toe) [Python]
+
 
 ### My Stats 📊
 <img src="https://komarev.com/ghpvc/?username=mbharti321" alt="mbharti321" />
