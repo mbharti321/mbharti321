@@ -47,7 +47,7 @@ I think my logical thinking and problem-solving skills are greatly valuable to t
 Linkedin: <a href="https://www.linkedin.com/in/manish-bharti/">Manish Bharti</a>
 
 
-## Profile Reference
+### Profile Reference
 - [Manish Kumar Shah](https://github.com/ManishShah120)
 
 
