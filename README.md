@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hola World! <br>I'm <a href = "https://www.google.com/search?q=MBharti321" target="_blank">Manish Bharti</a>👋 </h1>
+<h1 align="center"> Hola World! <br>I'm <a href = "https://www.google.com/search?q=mbharti321">Manish Bharti</a>👋 </h1>
 
 
 
