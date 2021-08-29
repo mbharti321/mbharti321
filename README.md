@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 
 ## Me 👨‍💻 
-Being an all-time learner and blockchain enthusiast, I believe in smart work.
-I am a good team player, which helps me work on challenging problems and build positive relationships with teammates. Programming, web development, cycling are few interests of mine.
-I think my logical thinking and problem-solving skills are greatly valuable to the team. 
+Being an enthusiastic developer and blockchain explorer, I believe in smart work. I have delivered 5 academic, 3 hackathon projects, and few internship projects working with 3-5 teammates. Programming, web development, cycling are few interests of mine. I hope my logical thinking and problem-solving skills are greatly valuable to the team.
 
 
 ### Projects 
@@ -50,26 +48,3 @@ I think my logical thinking and problem-solving skills are greatly valuable to t
 
 ### Code Reference
 - [Manish Kumar Shah](https://github.com/ManishShah120)
-
-
-<!--
-<details>
-<summary><font size=5><b>Usefull Repo's 🗃</b></font></summary>
-
-| **Sl No.** | **Links** |
-| ------ | ------ |
-| 1. | [Basics of PyTorch: Zero to Gans](https://github.com/ManishShah120/PyTorch_Basics) |
-| 2. | [Basics of Machine Learning](https://github.com/ManishShah120/Basics_of_ML) |
-| 3. | [DAA Lab Assignment Solutions](https://github.com/ManishShah120/DAA_Lab_Assignmnent) |
-| 4. | [Concepts of OOPs](https://github.com/ManishShah120/Oops_Wi2_Cplusplus) |
-| 5. | [Basic of Data Visualization](https://github.com/ManishShah120/Data-Visualization-using-Python) |
-| 6. | [Basics of GNUsim8085](https://github.com/ManishShah120/GNUsim8085Basics) |
-| 7. | [Hackerearth Solutions](https://github.com/ManishShah120/HackerEarth_Codes) |
-| 8. | [Python Basics for Data Science](https://github.com/ManishShah120/Python_Basics_4_Data_Science) |
-| 9. | [Basics of Python](https://github.com/ManishShah120/Python_Basics) |
-| 10. | [NPTEL Python for Data Science](https://github.com/ManishShah120/Py4DSci) |
-| 11. | [Interesting Concepts of C](https://github.com/ManishShah120/BasicandinterestingconceptswithC) |
-| 12. | [Analysis of different Sorting Algorithms](https://github.com/ManishShah120/Analysis-of-Sorting-Algorithm) |
-| 13. | [Basics of sk-Learn](https://github.com/ManishShah120/sk-learn-Basics) |
-</details>
--->
