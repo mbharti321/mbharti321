@@ -44,6 +44,7 @@ Being an enthusiastic developer and blockchain explorer, I believe in smart work
 ### 📫 How to reach me: 
 
 - Linkedin: <a href="https://www.linkedin.com/in/manish-bharti/">Manish Bharti</a>
+- [Mini Website](https://flowcv.me/manishbharti)
 
 
 ### Code Reference
