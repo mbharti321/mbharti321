@@ -22,12 +22,14 @@ Being a passionate developer and blockchain explorer, I believe in teamwork. Wor
 
 
 ## Projects 
-<img align="right" src="https://github.com/mbharti321/mbharti321/blob/main/coding-freak.gif" width="32%"/>
 
 - [weatherCheck](https://github.com/mbharti321/weatherCheck)
     [Node.js, openWeather API, javascript, html, css, bootstrap]
 - [Jobbster](https://github.com/mbharti321/Jobbster)
     [PHP, python, html, css, js, bootstrap]
+    
+<img align="right" src="https://github.com/mbharti321/mbharti321/blob/main/coding-freak.gif" width="32%"/>
+    
 - [covidms](https://github.com/mbharti321/covidms)  [Python,Django,html,css,bootstrap,js]
 - [tic-tac-toe](https://github.com/mbharti321/tic-tac-toe) 
     [Python]        
@@ -42,7 +44,7 @@ Being a passionate developer and blockchain explorer, I believe in teamwork. Wor
 <img src="https://komarev.com/ghpvc/?username=mbharti321" alt="mbharti321" />
 <!-- ![](https://komarev.com/ghpvc/?username=mbharti321&color=green) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=mbharti321&&show_icons=true&title_color=26FF00&icon_color=2551E6&text_color=ffffff&bg_color=000000" width="50%"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=mbharti321&&show_icons=true&title_color=26FF00&icon_color=2551E6&text_color=ffffff&bg_color=000000" width="60%"/><br>
 
 ### 📫 How to reach me: 
 
