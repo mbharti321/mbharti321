@@ -42,7 +42,7 @@ Being a passionate developer and blockchain explorer, I believe in teamwork. Wor
 
 
 ## My Stats 📊 
-<img src="https://komarev.com/ghpvc/?username=mbharti321" alt="mbharti321" />
+- <img src="https://komarev.com/ghpvc/?username=mbharti321" alt="mbharti321" />
 <!-- ![](https://komarev.com/ghpvc/?username=mbharti321&color=green) -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mbharti321&&show_icons=true&title_color=26FF00&icon_color=2551E6&text_color=ffffff&bg_color=000000" width="60%"/><br>
