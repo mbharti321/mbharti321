@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Being a passionate developer and blockchain explorer, I believe in teamwork. Working with 3 to 5 teammates, I have delivered a few projects, including academic, hackathon, and internship. Programming, web development, and cycling are a few interests of mine. I hope my logical thinking and problem-solving skills are greatly valuable to the team.
 
 
-### Projects 
+## Projects 
 <img align="right" src="https://github.com/mbharti321/mbharti321/blob/main/coding-freak.gif" width="32%"/>
 
 - [weatherCheck](https://github.com/mbharti321/weatherCheck)
@@ -38,10 +38,10 @@ Being a passionate developer and blockchain explorer, I believe in teamwork. Wor
     [Visual Basic 6.0, SQLServer] -->
 
 
-### My Stats 📊 <img src="https://komarev.com/ghpvc/?username=mbharti321" alt="mbharti321" />
+## My Stats 📊 <img src="https://komarev.com/ghpvc/?username=mbharti321" alt="mbharti321" />
 <!-- ![](https://komarev.com/ghpvc/?username=mbharti321&color=green) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=mbharti321&&show_icons=true&title_color=26FF00&icon_color=2551E6&text_color=ffffff&bg_color=000000" width="100%"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=mbharti321&&show_icons=true&title_color=26FF00&icon_color=2551E6&text_color=ffffff&bg_color=000000" width="50%"/><br>
 
 ### 📫 How to reach me: 
 
