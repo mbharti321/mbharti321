@@ -28,13 +28,14 @@ Being an enthusiastic developer and blockchain explorer, I believe in smart work
     [Node.js, openWeather API, javascript, html, css, bootstrap]
 - [Jobbster](https://github.com/mbharti321/Jobbster)
     [PHP, python, html, css, js, bootstrap]
-- [Cafeteria-Odering-System](https://github.com/mbharti321/Cafeteria-Odering-System)
-    [Python, Django,html,css,bootstrap,javascript]
-- [E-Voting System](https://github.com/mbharti321/EVoting-System)
-    [Visual Basic 6.0, SQLServer]
 - [covidms](https://github.com/mbharti321/covidms)  [Python,Django,html,css,bootstrap,js]
 - [tic-tac-toe](https://github.com/mbharti321/tic-tac-toe) 
-    [Python]
+    [Python]        
+- [Cafeteria-Odering-System](https://github.com/mbharti321/Cafeteria-Odering-System)
+    [Python, Django,html,css,bootstrap,javascript]
+  
+<!-- - [E-Voting System](https://github.com/mbharti321/EVoting-System)
+    [Visual Basic 6.0, SQLServer] -->
 
 
 ### My Stats 📊 <img src="https://komarev.com/ghpvc/?username=mbharti321" alt="mbharti321" />
