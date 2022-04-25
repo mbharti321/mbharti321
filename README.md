@@ -32,17 +32,18 @@ Being a passionate developer and blockchain explorer, I believe in teamwork. Wor
     [Node.js, MongoDB, javascript, html, css, bootstrap]   
 
 - [Jobbster](https://github.com/mbharti321/Jobbster)
-    [PHP, python, html, css, js, bootstrap]
-    
+    [PHP, python, html, css, js, bootstrap]    
     
 - [covidms](https://github.com/mbharti321/covidms)  [Python,Django,html,css,bootstrap,js]
-- [tic-tac-toe](https://github.com/mbharti321/tic-tac-toe) 
-    [Python]        
+- [tic-tac-toe](https://github.com/mbharti321/tic-tac-toe) [Python] 
+           
 - [Cafeteria-Odering-System](https://github.com/mbharti321/Cafeteria-Odering-System)
     [Python, Django,html,css,bootstrap,javascript]
   
 - [E-Voting System](https://github.com/mbharti321/EVoting-System)
     [Visual Basic 6.0, SQLServer]
+- [newsletter-signup](https://newsletter-signup321.herokuapp.com/)
+    [Node.js, MailChimp API, javascript, html, css, bootstrap]
 
 
 ## My Stats 📊 
