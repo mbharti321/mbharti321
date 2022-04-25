@@ -24,6 +24,8 @@ Being an enthusiastic developer and blockchain explorer, I believe in smart work
 ### Projects 
 <img align="right" src="https://github.com/mbharti321/mbharti321/blob/main/coding-freak.gif" width="32%"/>
 
+- [weatherCheck](https://github.com/mbharti321/weatherCheck)
+    [Node.js, openWeather API, javascript, html, css, bootstrap]
 - [Jobbster](https://github.com/mbharti321/Jobbster)
     [PHP, python, html, css, js, bootstrap]
 - [Cafeteria-Odering-System](https://github.com/mbharti321/Cafeteria-Odering-System)
