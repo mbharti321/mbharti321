@@ -26,7 +26,7 @@ Being a passionate developer and blockchain explorer, I believe in teamwork. Wor
 
 
 - [weatherCheck](https://manish-weather-check.herokuapp.com/)
-    [Node.js, openWeather API, javascript, html, css, bootstrap]{:target="_blank" rel="noopener"}
+    [Node.js, openWeather API, javascript, html, css, bootstrap]
 - [Jobbster](https://github.com/mbharti321/Jobbster)
     [PHP, python, html, css, js, bootstrap]
     
