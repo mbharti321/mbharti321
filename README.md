@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## Me 👨‍💻 
-Being an enthusiastic developer and blockchain explorer, I believe in smart work. I have delivered 5 academic, 3 hackathon projects, and few internship projects working with 3-5 teammates. Programming, web development, cycling are few interests of mine. I hope my logical thinking and problem-solving skills are greatly valuable to the team.
+Being a passionate developer and blockchain explorer, I believe in teamwork. Working with 3 to 5 teammates, I have delivered a few projects, including academic, hackathon, and internship. Programming, web development, and cycling are a few interests of mine. I hope my logical thinking and problem-solving skills are greatly valuable to the team.
 
 
 ### Projects 
