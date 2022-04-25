@@ -32,8 +32,7 @@ Being an enthusiastic developer and blockchain explorer, I believe in smart work
     [Python, Django,html,css,bootstrap,javascript]
 - [E-Voting System](https://github.com/mbharti321/EVoting-System)
     [Visual Basic 6.0, SQLServer]
-- [covidms](https://github.com/mbharti321/covidms)   
-    [Python,Django,html,css,bootstrap,javascript]
+- [covidms](https://github.com/mbharti321/covidms)  [Python,Django,html,css,bootstrap,js]
 - [tic-tac-toe](https://github.com/mbharti321/tic-tac-toe) 
     [Python]
 
